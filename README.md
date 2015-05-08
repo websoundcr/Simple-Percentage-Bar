@@ -15,4 +15,8 @@ For example you can use it for compare:
 - Votes
  -Etc..
 
-<image src="https://cloud.githubusercontent.com/assets/8060328/7544832/10475b1a-f58e-11e4-8f59-f120e9530fcb.JPG" >
+<h2>Example</h2>
+<image src="https://cloud.githubusercontent.com/assets/8060328/7544832/10475b1a-f58e-11e4-8f59-f120e9530fcb.JPG" alt="Percentage Bars" >
+
+<h2>PHP Functions</h2>
+<image src="https://cloud.githubusercontent.com/assets/8060328/7544918/c0f7efec-f58e-11e4-9046-876d101a0bcd.JPG" alt="PHP Function">
