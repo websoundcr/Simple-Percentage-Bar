@@ -14,3 +14,5 @@ For example you can use it for compare:
 
 - Votes
  -Etc..
+
+<image src="https://cloud.githubusercontent.com/assets/8060328/7544832/10475b1a-f58e-11e4-8f59-f120e9530fcb.JPG" >
